@@ -1,0 +1,7 @@
+ua\koss\binarytree\service\NameService.class
+ua\koss\binarytree\model\BinaryTree.class
+ua\koss\binarytree\model\Node.class
+ua\koss\binarytree\runner\ProgramRunner.class
+ua\koss\binarytree\model\Person.class
+ua\koss\binarytree\Main.class
+ua\koss\binarytree\service\NameFake.class
