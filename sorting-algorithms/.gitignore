@@ -1,0 +1,10 @@
+# Project exclude paths
+/sorting-algorithm/target/
+/sorting-algorithm/out/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log*
+*.gz
+*.jar
