@@ -24,11 +24,6 @@
         <version>${lombok.version}</version>
         <scope>compile</scope>
       </dependency>
-        <dependency>
-          <groupId>ua.koss</groupId>
-          <artifactId>binary-tree</artifactId>
-          <version>${project.version}</version>
-        </dependency>
     </dependencies>
   </dependencyManagement>
 </project>
